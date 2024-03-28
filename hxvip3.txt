@@ -34,7 +34,7 @@
         },
         {
             "key": "AliYunPan",
-            "name": "💕云盘登录|T签到",
+            "name": "💕云盘登录|3.28",
             "type": 3,
             "api": "csp_AliYunPan",
             "searchable": 0,

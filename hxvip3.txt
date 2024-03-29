@@ -401,7 +401,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/奇优影视.json"
+            "ext": "./lib/奇优影视.json"
         },
         {
       "key":"py_cctv_集合",
